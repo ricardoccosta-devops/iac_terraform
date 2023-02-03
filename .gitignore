@@ -1,0 +1,7 @@
+### Terrform ###
+#local .terraform directories
+**/.terraform/*
+
+# .tfsate files
+*.tfstate
+*.tfsate.*
